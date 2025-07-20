@@ -25,7 +25,7 @@ Ajudar estudantes e entusiastas do idioma inglês a aprender de forma leve, natu
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/dev-januario/VerseFlip.git)
 
 # Acesse o diretório
 cd nome-do-repo
